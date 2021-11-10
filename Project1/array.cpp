@@ -17,7 +17,7 @@ int main()
 	
 
 	for (int i = 0; i < 100; i++) 
-		if (randArray[i] % 2 = 0)
+		if (randArray[i] % 2 == 0)
 			
 			cout << "Integer " << i + 1 << " = " << randArray[i] << " is even." << endl;
 
